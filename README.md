@@ -1,1 +1,7 @@
 # Airbnb-Price-Recomendation-System
+
+This project utilizes predictive data mining and machine learning to analyze Airbnb listing data, identifying key features affecting pricing. It offers a pricing methodology to aid hosts and customers in making informed decisions, ensuring appropriate property pricing based on location and amenities. The project showcases various Airbnb price prediction models, incorporating external data sources for improved accuracy. It explores common machine learning and neural network models for price prediction.
+
+A comprehensive model was developed, using property specifications, owner information, and customer reviews to forecast listing prices. Models including linear regression, tree-based methods, K-means Clustering, Support Vector Regression (SVR), and neural networks were trained and fine-tuned on a dataset of 20,000+ listings from Amsterdam. These resulting models were then evaluated based on metrics such as Mean Squared Error, Mean Absolute Error, and R2 score. Additionally, feature importance analysis highlighted key factors for accurate price prediction.
+
+In addition to prediction modeling, the project applies predictive data mining and machine learning to detect trends and patterns in the datasets. Through our observations, we found that integrating classified sentiments with Regression Tree yields more precise predictions compared to using numerical sentiment scores.
